@@ -1,0 +1,6 @@
+,Best Model,MSE
+JNJ,Lasso Regression,104.31349385070251
+PFE,Lasso Regression,17.157171242925113
+MRK,Lasso Regression,116.07049066418054
+ABT,Linear Regression,164.32480629815225
+UNH,Ridge Regression,1330.0267148743687
